@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find Me Clean Food</string>
+    <string name="mapbox_api_key">pk.eyJ1IjoiMjZtaXhlc2ZvcmNhc2giLCJhIjoiY2pzeGs0dDRmMDNjcjN5cXRicmZ3N2dldSJ9.T8eRe2cvebr7kFfHKrYyhg</string>
+    <string name="postcode_blank">Please enter postcode</string>
+    <string name="invalid_postcode">U.K. postcodes must begin with a letter</string>
+    <string name="name_blank">Please enter restaurant name</string>
+    <string name="too_short">Please enter at least 3 characters</string>
+</resources>
